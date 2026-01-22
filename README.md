@@ -1,4 +1,4 @@
-# 4b
+# Paginated API
 
 ## What this project builds
 This is a small Express API for a card collection. It uses an in-memory array as a mock database and exposes CRUD routes (create, read, update, delete) with simple pagination.
