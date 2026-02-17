@@ -3,6 +3,12 @@
 ## What this project builds
 This is a small Express API for a card collection. It uses an in-memory array as a mock database, follows a simple controller/service/model structure, and exposes CRUD routes with pagination.
 
+## Starting the Project
+
+Students should first follow the experiment guide to proceed with the project
+
+- [Experiment 4 Guide](https://github.com/cu-fs1#experiment-4)
+
 ## Features
 - Express server with CORS and JSON middleware
 - CRUD endpoints for cards
