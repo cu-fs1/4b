@@ -16,7 +16,7 @@ This is a small Express API for a card collection. It uses an in-memory array as
 - In-memory data store for quick iteration
 
 ## Folder structure
-```
+``` 
 4b-me/
 ├─ index.js
 ├─ package.json
@@ -79,7 +79,7 @@ Base URL: http://localhost:3000
   - Body: any fields to update
 - DELETE /cards/:id
 
-## Example requests (describe, don’t paste files)
+## Example requests (describe, don't paste files)
 - List cards: send a GET request to /cards.
 - Paginate: add ?page=2&limit=5 to /cards.
 - Fetch one card: GET /cards/:id.
